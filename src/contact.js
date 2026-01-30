@@ -18,4 +18,5 @@ export function loadContact() {
     
     contactText.appendChild(emailLink);
     contactContainer.appendChild(contactText);
+    content.appendChild(contactContainer);
 }
