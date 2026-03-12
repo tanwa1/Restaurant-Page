@@ -60,7 +60,3 @@ You can deploy this project using GitHub Pages, Netlify, or any static hosting p
 
 ## Credits
 - Part of [The Odin Project](https://www.theodinproject.com/)
-
----
-
-Feel free to customize this README for your own project and add screenshots or extra instructions as needed!
